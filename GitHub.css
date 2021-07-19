@@ -1,0 +1,147 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(g.PNG);
+	background-size: cover;
+	display: flex;
+	height: 100%;
+	background-repeat: no-repeat;
+}
+img{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 10px;
+	margin-left: 2em;
+}
+
+.textA{
+	margin-top: 1em;
+	margin-left: 0.8em;
+	color: ghostwhite;
+	font-size: 1.4em;
+}
+.textB{
+	margin-top: 1em;
+	margin-left: 0.8em;
+	color: ghostwhite;
+	font-size: 1.4em;
+}
+.textC{
+	margin-top: 1em;
+	margin-left: 0.8em;
+	color: ghostwhite;
+	font-size: 1.4em;
+}
+.textD{
+	margin-top: 1em;
+	margin-left: 0.8em;
+	color: ghostwhite;
+	font-size: 1.4em;
+}
+.textE{
+	margin-top: 1em;
+	margin-left: 0.8em;
+	color: ghostwhite;
+	font-size: 1.4em;
+}
+.textF{
+	margin-top: 1em;
+	margin-left: 0.8em;
+	color: ghostwhite;
+	font-size: 1.4em;
+}
+.ss{
+	width: 18em;
+	height: 2.5em;
+	border: 1px solid ghostwhite;
+	border-radius: .3em;
+	background-color: gray;
+	margin-left: 15em;
+	margin-top: 2em;
+}
+.ss::placeholder{
+	color: ghostwhite;
+	font-size: 1.2em;
+}
+p{
+	margin-left: .5em;
+	margin-top:1.7em;
+	font-size: 20px;
+	color: #fff;
+	font-weight: 300;
+}
+p a{
+	font-size: 1.2em;
+	font-style: bold;
+	color: ghostwhite;
+	text-decoration: none;
+}
+p a:hover{
+	color: gray;
+}
+.sss{
+	width: 6em;
+	height: 2.5em;
+	border-radius: .5em;
+	border: 1px solid floralwhite;
+	background-color: #2c1154;
+	color: ghostwhite;
+	margin-left: .5em;
+	margin-top: 2em;
+}
+.sss:hover{
+	border-color: gray;
+	color: gray;
+}
+.head{
+	width: 40em;
+	height: 20em;
+	margin-top: 10em;
+	margin-left: -84em;
+}
+.head h1{
+	font-size: 4em;
+	color: ghostwhite;
+	margin-left: 1em;
+}
+.head p{
+	color: rgba(209, 213, 218, 0.5);
+	font-size: 1.5em;
+	margin-left: 3em;
+	margin-top: 1.1em;
+}
+.lst{
+	margin-top: 32em;
+	margin-left: -35em
+}
+.lst input{
+	width: 15em;
+	height: 2.5em;
+	border: 1px solid ghostwhite;
+	border-radius: .4em;
+	background-color: ghostwhite;
+	margin-left: -1em;
+	margin-top: -1.4em;
+}
+.lst input::placeholder{
+	color: grey;
+	font-size: 1.2em;
+}
+.lst button{
+	width: 8em;
+	height: 2.5em;
+	color: ghostwhite;
+	background-color: #6487a1;
+	border: 1px solid #6487a1;
+	border-radius: .5em;
+	font-size:1em;
+	box-shadow: navy;
+}
+.lst button:hover{
+	background-color: limegreen;
+
+}
+
